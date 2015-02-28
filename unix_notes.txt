@@ -1,19 +1,30 @@
 ll
 ls
+#list
+
 less moving_around.txt
 subl does_not_exist.txt
 subl moving_around.txt
 nano moving_around.txt
 cat moving_around.txt
 # All of this opens in different text editors
+
 history > moving_around.txt
 cd
 history | sort | less
+# chain
+
 history | sort
 man man
+# manual page in the manual
+
 history | less
 clear
+# clears the window
+
 man less
+# manual page of less
+
 history
 cd Applications
 cd music
