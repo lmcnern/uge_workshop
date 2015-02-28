@@ -1,0 +1,8 @@
+git branch git_notes
+# creates a new branch called git_notes
+git branch
+# displays which branch is active
+git ll
+# git list all, lists all the changes made
+git st
+# Is the same as git status except git st displays less information
